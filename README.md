@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Fabiano
 - Apaixonado por aprender, se apaixonando cada dia mais por Desenvolvimento Web.
-- Fazendo o curso de Engenheiro Front-end na EBAC.
--  
--  
-- 
+- Fazendo o curso de Engenheiro Front-end da EBAC.
 
 <!---
 fabiano74/fabiano74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
