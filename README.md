@@ -1,8 +1,5 @@
 👋 Hi, I’m Fabiano Cardoso
 
-🚀 Passionate about learning, falling more and more in love with Web Development<br>
-📘 Taking the Front-End Engineer course at EBAC.<br>
-🎤 About me: music by vocation<br>
 
 🔘 Contacts:<br>
 💼 [Linkedin](https://www.linkedin.com/in/fabiano-cardoso)<br>
