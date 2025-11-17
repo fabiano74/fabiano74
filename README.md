@@ -19,7 +19,7 @@ Minha missão é fazer a transição para uma função de **Engenharia de Perfor
 
 ### 💼 Destaques do Portfólio
 
-* **[LINK DO REPO AQUI]** **[mysql-performance-studies]:** Coleção de estudos de caso reais detalhando o refatoramento de SQL e alterações DDL que levaram à redução significativa de latência e melhoria na robustez dos dados. *(Seu primeiro repositório!)*
+* **[mysql-performance-studies](https://github.com/fabiano74/mysql-performance-studies):** Coleção de estudos de caso reais detalhando o refatoramento de SQL e alterações DDL que levaram à redução significativa de latência e melhoria na robustez dos dados.
 
 ---
 
