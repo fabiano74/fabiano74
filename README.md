@@ -13,6 +13,7 @@ Minha missão é fazer a transição para uma função de **Engenharia de Perfor
     * **Técnicas de Performance Tuning:** Em **estudo e aplicação de metodologias** para otimização de consultas, estratégias de indexação e análise de planos de execução (`EXPLAIN`).
     * **Programação e Integridade de Dados:** Familiaridade e **desenvolvimento ativo** em Stored Procedures, Functions, Triggers e Transações ACID.
     * **Estruturação de Dados JSON:** Experiência no tratamento e estruturação de dados JSON para integração com plataformas NoCode/LowCode.
+    * **Comunicação Intercultural:** Estudo ativo de **Espanhol Latino-Americano** focado em documentação técnica e integração com equipes internacionais.
 * **Meta Futura:** PostgreSQL e Engenharia de Dados de Alta Escala.
 
 ---
